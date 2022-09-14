@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article: What Makes A Good Programmer? 
+## Link: https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/
+
+The article titled "What Makes A Good Programmer", is a very intresting article that discussed five key skills that makes up a good programmer. These skills are problem decomposition, scenario analysis, naming, consistency and learning. Two things that I found very intresting is the concpet of problem decomposition and learning. Problem decomposition is the skill of problem solving by breaking larger problems into smaller and smaller task that can be accomplished which will inevitable lead to the entire problem being solved. I think this intresting because it really can help developers find clear solutions using the scrum framework that breaks problem down into daily tasks. Learning is a skill that many good porgammer has because as software developers we are constantly learning new technologies and techniques. The constant thirst for knowledge is a great assest for programmers since it can lead to much more efficent solutions to important problems. 
